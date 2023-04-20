@@ -4,7 +4,7 @@ Patch that removes the beeping lock-on sound effect entirely from the Ketsui-the
 
 ## Patching Instructions:
 
-1 - From the installed Dodonpachi DFK folder (the one where default.exe is), go to /res/DISKDATA/F/.
+1 - From the installed Dodonpachi DFK folder (the one where default.exe is), go to \res\DISKDATA\F\.
 
 2 - Using your xdelta patcher of choice, apply the dfkblarr-nlos.xdelta patch to the file named "msoe.bin". Make sure that your patched file has the same filename as the original.
 
