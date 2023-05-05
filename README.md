@@ -21,3 +21,8 @@ msoe.bin
 (Patched) &nbsp; CRC32:&nbsp; fce3b472  
 (Patched) &nbsp; MD5:  &nbsp; &nbsp;   d5250142d0f5cff96caf0609786f0426  
 (Patched) &nbsp;  SHA-1: &nbsp; 89416b2a28fd0ef86e7f7b084cba9bd1442722c4  
+
+## &nbsp;
+
+Patch by KMH  
+2023-04-14 - Released
